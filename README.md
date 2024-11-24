@@ -4,7 +4,7 @@
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/syn1de/Discord-Auto-Bump.git
+   git clone https://github.com/zeaxc/Discord-Auto-Bump.git
    cd Discord-Auto-Bump
    npm install
    ```
@@ -20,4 +20,4 @@ Edit `config.json` to add your user token and channel details.
 
 ## Contact
 
-If you need help, reach out on Discord: **sy1nde*
+If you need help, reach out on Discord: **zeaxc**
