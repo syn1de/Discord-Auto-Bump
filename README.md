@@ -16,7 +16,7 @@
 
 ## Configuration
 
-Edit `config.json` to add your bot token and server details.
+Edit `config.json` to add your user token and channel details.
 
 ## Contact
 
