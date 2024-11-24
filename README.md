@@ -5,7 +5,7 @@
 1. Clone the repository and install dependencies:
    ```bash
    git clone https://github.com/syn1de/Discord-Auto-Bump.git
-   cd discord-auto-bump
+   cd Discord-Auto-Bump
    npm install
    ```
 
